@@ -1,11 +1,7 @@
-<h1 align="start">Hi 👋, I'm Chirag</h1>
+<h1 align="start">👋 Hi, I'm Chirag</h1>
 <h3 align="start">A passionate learner in computer science from India</h3>
 
-- 📫 How to reach me **chirag1292003@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📫 How to reach me **chirag1292003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
