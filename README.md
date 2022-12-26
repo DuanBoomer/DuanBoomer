@@ -2,6 +2,7 @@
 <h3 align="start">A passionate learner in computer science from India</h3>
 
 ## 📫 How to reach me **chirag1292003@gmail.com**
+<iframe src="https://giphy.com/embed/3oEduLPzcE6qsCj8S4" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-lcd-bar-code-3oEduLPzcE6qsCj8S4">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
