@@ -23,7 +23,3 @@
 <br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DuanBoomer&" alt="duanboomer" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DuanBoomer&show_icons=true&locale=en" alt="duanboomer" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuanBoomer&show_icons=true&locale=en&layout=compact" alt="duanboomer" /></p>
-
