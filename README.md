@@ -2,13 +2,11 @@
 
 <img src= "https://media2.giphy.com/media/3oEduLPzcE6qsCj8S4/giphy.gif?cid=790b761126f3b596906c08c212650564bce7718ce1220265&rid=giphy.gif&ct=g" alt="funny GIF" width="35%" height="35%" align = "right" frameBorder="5">
 
-<h3 align="start">A passionate learner in computer science from India</h3>
+<h3 align="start">A passionate learner and tech enthusiast from India</h3>
+<h3 align="start">Current Interest - Machine learning->Reinforcement learning</h3>
 
 #### 📫 How to reach me **chirag1292003@gmail.com** 
-<!-- - 📫 How to reach me **chirag1292003@gmail.com**  
-- 📫 How to reach me **chirag1292003@gmail.com**  
-- 📫 How to reach me **chirag1292003@gmail.com**  
-- 📫 How to reach me **chirag1292003@gmail.com**  -->
+#### 👨‍💻 Personal Website **https://duanboomer.github.io/** 
 
 <!-- <iframe src="https://giphy.com/embed/3oEduLPzcE6qsCj8S4" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-lcd-bar-code-3oEduLPzcE6qsCj8S4">via GIPHY</a></p> -->
 
