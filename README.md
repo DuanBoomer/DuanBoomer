@@ -1,3 +1,5 @@
+![github-banner](https://user-images.githubusercontent.com/75297171/232302548-ca61a270-ccc5-479e-b3ce-271bea384059.jpeg)
+
 <h1 align="center">Hi👋 , I'm Chirag</h1>
 
 <img src= "https://media2.giphy.com/media/3oEduLPzcE6qsCj8S4/giphy.gif?cid=790b761126f3b596906c08c212650564bce7718ce1220265&rid=giphy.gif&ct=g" alt="funny GIF" width="35%" height="35%" align = "right" frameBorder="5">
