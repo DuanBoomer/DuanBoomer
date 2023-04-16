@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi👋 , I'm Chirag</h1>
 
-<img src= "https://media2.giphy.com/media/3oEduLPzcE6qsCj8S4/giphy.gif?cid=790b761126f3b596906c08c212650564bce7718ce1220265&rid=giphy.gif&ct=g" alt="funny GIF" width="35%" height="35%" align = "right" frameBorder="5">
+<!-- ![octocat-1681643746754](https://user-images.githubusercontent.com/75297171/232305863-b58b4491-4bbc-4579-9ed1-2bac542b7af1.png) -->
+
+<img src= "https://user-images.githubusercontent.com/75297171/232305863-b58b4491-4bbc-4579-9ed1-2bac542b7af1.png" width="35%" height="35%" align = "right">
 
 <h3 align="start">A Passionate learner and Tech enthusiast from India.</h3>
 <h3 align="start">Current Interest - Machine learning->Reinforcement learning</h3>
