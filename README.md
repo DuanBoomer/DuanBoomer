@@ -18,6 +18,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/chirag-ji-163a38221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag ji" height="30" width="40" /></a>
 <a href="https://medium.com/@chirag1292003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chirag" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/duanboomer/code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/duanboomer/code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
