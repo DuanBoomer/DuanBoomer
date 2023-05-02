@@ -8,9 +8,9 @@
 
 <h3 align="start">A Passionate learner and Tech enthusiast from India.</h3>
 
-### **Currently learning** - _Reinforcement Learning_
-### 📫 How to reach me **chirag1292003@gmail.com** 
-### 👨‍💻 Personal Website **https://duanboomer.github.io/** 
+#### **Currently learning** - _Reinforcement Learning_
+#### 📫 How to reach me **chirag1292003@gmail.com** 
+#### 👨‍💻 Personal Website **https://duanboomer.github.io/** 
 
 <!-- <iframe src="https://giphy.com/embed/3oEduLPzcE6qsCj8S4" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-lcd-bar-code-3oEduLPzcE6qsCj8S4">via GIPHY</a></p> -->
 <hr>
