@@ -1,9 +1,71 @@
-![github-banner](https://user-images.githubusercontent.com/75297171/232302548-ca61a270-ccc5-479e-b3ce-271bea384059.jpeg)
+<br clear="both">
 
-# Hi, I am Chirag 👋 
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/75297171/232302548-ca61a270-ccc5-479e-b3ce-271bea384059.jpeg"  />
+</div>
 
-Continously learning **Data Science**
+###
 
-You can contact me through the following platforms
-- <a href="mailto:chirag.duan@gmail.com"> Email - chirag.duan@gmail.com </a>
-- <a href="https://www.linkedin.com/in/chiragdb/"> Linkedin - /chiragdb </a>
+<h1 align="center">Hi, I am Chirag 👋</h1>
+
+###
+
+<h3 align="left">🚀 About me</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">Passionate about Data Analysis and continuously learning to enhance my skills.<br>I believe in the power of data to unlock new insights and drive innovation.</p>
+
+###
+
+<h3 align="left">🤹 Skills</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+</div>
+
+###
+
+<h3 align="left">📫 Let's connect</h3>
+
+###
+
+<p align="left">Feel free to reach out to me for collaborations or just a chat about tech and data science. I’m always open to connecting with like-minded individuals and exploring new opportunities.</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/chiragdb/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="mailto:chirag.duan@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://discordapp.com/users/chiragdb"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chirag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=blue-green&hide_border=true&order=2&custom_title=Languages" height="140" alt="languages graph"  />
+</div>
+
+###
