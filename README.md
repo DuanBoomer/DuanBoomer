@@ -64,10 +64,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chirag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=blue-green&hide_border=true&order=2&custom_title=Languages" height="140" alt="languages graph"  />
-  
-</div>
+<br>[![PyPI Downloads](https://img.shields.io/badge/Made%20with%20%F0%9F%92%96%20by-Chirag-brightgreen?style=for-the-badge&logo=appveyor)](
+https://github.com/DuanBoomer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuanBoomer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
