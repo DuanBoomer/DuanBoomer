@@ -15,7 +15,7 @@
 ###
 
 <br clear="both">
-
+<strong>Learning above all is the key to greatness and I want to embody that fact as much as possible.</strong>
 <p align="left">Passionate about Data Analysis and continuously learning to enhance my skills.<br>I believe in the power of data to unlock new insights and drive innovation.</p>
 
 ###
