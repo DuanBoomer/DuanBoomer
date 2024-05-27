@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div align="center">
+<div align="center" style="object-fit: cover;">
   <img height="200" style="object-fit: cover;" src="https://user-images.githubusercontent.com/75297171/232302548-ca61a270-ccc5-479e-b3ce-271bea384059.jpeg"  />
 </div>
 
