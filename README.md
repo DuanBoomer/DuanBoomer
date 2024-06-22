@@ -31,7 +31,7 @@
         </p>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanBoomer&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=10&size_weight=0.7&count_weight=0.3">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanBoomer&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&langs_count=7&size_weight=0.7&count_weight=0.3">
       </td>
     </tr>
   </table>
