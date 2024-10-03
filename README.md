@@ -41,7 +41,7 @@
 <p align="left">Feel free to reach out to me for collaborations or just a chat about tech and data science. I’m always open to connecting with like-minded individuals and exploring new opportunities.</p>
 
 <p align = "left">
-  <a href = "https://x.com/ChiragDuan">
+  <a href = "https://duanboomer.github.io/">
     <img src="https://github.com/DuanBoomer/DuanBoomer/assets/75297171/82249675-8da0-4fba-b407-30ac68f5e6ed" width='48' height='48'/>
   </a>
 <!--   ![logo-round-small](https://github.com/DuanBoomer/DuanBoomer/assets/75297171/82249675-8da0-4fba-b407-30ac68f5e6ed) -->
