@@ -58,6 +58,9 @@
   <a href = "https://x.com/ChiragDuan">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=x" />
   </a>
+  <a href = "https://www.kaggle.com/duanboomer/code">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" />
+  </a>
 </p> 
 
 <h2>GitHub Stats</h2>
